@@ -1,0 +1,33 @@
+html {
+  font-family: monospace;
+}
+
+a {
+    color: blue;
+}
+a:hover {
+    color: orange;
+}
+
+#left {
+  left: 0;
+  border: 1px solid black;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 20%;
+  height: 15%;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+#logo {
+  
+}
+
+#stream {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  width: 75%;
+}
